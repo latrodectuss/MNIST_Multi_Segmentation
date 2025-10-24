@@ -1,0 +1,1 @@
+# MNIST_Multi_Segmentation
